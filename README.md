@@ -32,6 +32,8 @@ Before using this tool, make sure you have the following installed:
 
 ```bash
 git clone https://github.com/melbinjp/Video_generation.git
+```
+```bash
 cd Video_generation
 ```
 
