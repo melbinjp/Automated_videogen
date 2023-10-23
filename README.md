@@ -1,6 +1,6 @@
 Certainly, here's a sample README file for your code to be presented on a GitHub repository:
 
-# Video Generation Automation
+# Automated_videogen
 
 This repository contains a Python script for automating the generation of videos based on search queries. It combines text generation, image collection, audio synthesis, and video creation to produce informative and engaging videos.
 
@@ -16,7 +16,7 @@ This repository contains a Python script for automating the generation of videos
 
 ## Introduction
 
-Video Generation Automation is a project that leverages advanced programs and algorithms to create videos from textual descriptions. It incorporates various technologies, including natural language processing, image processing, and audio synthesis. With this tool, you can quickly generate videos for educational, promotional, or informative purposes.
+Automated_videogen is a project that leverages advanced programs and algorithms to create videos from textual descriptions. It incorporates various technologies, including natural language processing, image processing, and audio synthesis. With this tool, you can quickly generate videos for educational, promotional, or informative purposes.
 
 ## Prerequisites
 
@@ -31,10 +31,10 @@ Before using this tool, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/melbinjp/Video_generation.git
+git clone https://github.com/melbinjp/Automated_videogen.git
 ```
 ```bash
-cd Video_generation
+cd Automated_videogen
 ```
 
 2. Install the required Python packages using `pip`:
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 4. Run the script by executing:
 
 ```bash
-python videogen.py
+python Automated_videogen.py
 ```
 
 ## Configuration
@@ -57,7 +57,7 @@ python videogen.py
 
 ## Usage
 
-1. Run the script by executing `videogen.py`. It will prompt you to enter a search query.
+1. Run the script by executing `Automated_videogen.py`. It will prompt you to enter a search query.
 2. The script will search for interesting topics using Google Custom Search and retrieve the top result.
 3. It will gather media by searching Google Images for related images.
 4. Audio is generated based on the retrieved text.
