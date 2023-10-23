@@ -31,7 +31,7 @@ Before using this tool, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/melbinjp/Video_geenration.git
+git clone https://github.com/melbinjp/Video_generation.git
 cd Video_generation
 ```
 
